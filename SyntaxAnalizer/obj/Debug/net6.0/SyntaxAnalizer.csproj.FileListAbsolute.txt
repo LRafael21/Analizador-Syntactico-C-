@@ -1,0 +1,15 @@
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\bin\Debug\net6.0\SyntaxAnalizer.exe
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\bin\Debug\net6.0\SyntaxAnalizer.deps.json
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\bin\Debug\net6.0\SyntaxAnalizer.runtimeconfig.json
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\bin\Debug\net6.0\SyntaxAnalizer.dll
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\bin\Debug\net6.0\SyntaxAnalizer.pdb
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.csproj.AssemblyReference.cache
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.AssemblyInfoInputs.cache
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.AssemblyInfo.cs
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.csproj.CoreCompileInputs.cache
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.dll
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\refint\SyntaxAnalizer.dll
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.pdb
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\SyntaxAnalizer.genruntimeconfig.cache
+C:\Users\Luis Rafael\source\repos\SyntaxAnalizer\SyntaxAnalizer\obj\Debug\net6.0\ref\SyntaxAnalizer.dll
